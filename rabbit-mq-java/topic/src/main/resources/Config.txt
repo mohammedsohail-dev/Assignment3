@@ -1,0 +1,13 @@
+Cost,2014,Alabama,Private,4-year,Fees/Tuition
+Top5,Expensive,2014,Private,4-year
+Top5,Economic,2014,Private,4-year
+Top5,HighestGrow,2014,2015,Private,4-year
+AverageExpense,2014,Private,4-year
+Cost,2014,Arizona,Private,4-year,Fees/Tuition
+Top5,HighestGrow,2014,2016,Private,4-year
+Top5,HighestGrow,2014,2017,Private,4-year
+Cost,2014,District of Columbia,Private,4-year,Fees/Tuition
+Top5,Expensive,2017,Private,4-year
+AverageExpense,2015,Private,4-year
+AverageExpense,2016,Private,4-year
+AverageExpense,2016,Public In-State,4-year
